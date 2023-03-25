@@ -7,6 +7,7 @@ I plan on updating the app with light features and functionality as they seem fi
 
 WHAT YOU NEED
 - Updated Mac with Xcode installed
+- Updated iPhone
 - Resourcefulness
 
 HOW TO USE
